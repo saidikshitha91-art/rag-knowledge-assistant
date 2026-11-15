@@ -1,0 +1,11 @@
+streamlit>=1.38
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+numpy
+pandas
+openpyxl
+pypdf
+python-docx
+scikit-learn
+anthropic>=0.40
+requests
